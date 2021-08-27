@@ -1,4 +1,4 @@
-#left{
+.left{
     position: fixed;
   width: 50%;
   float: left;
@@ -7,7 +7,7 @@
   
 }
 
-#right {
+.right {
     position: fixed;
   width: 50%;
   float: right;
