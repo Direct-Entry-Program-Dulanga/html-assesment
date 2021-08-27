@@ -1,0 +1,17 @@
+#left{
+    position: fixed;
+  width: 50%;
+  float: left;
+  height: 100%;
+  background-color: #e61b1b;
+  z-index: 1010101010
+}
+
+#right {
+    position: fixed;
+  width: 50%;
+  float: right;
+  height: 100%;
+  background-color: #0080ff;
+  z-index: 1010101010
+}
